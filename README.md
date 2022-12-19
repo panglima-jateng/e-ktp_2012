@@ -17,6 +17,11 @@ pkg update && pkg upgrade
 pkg install figlet                   
 pkg install bash               
 pkg install git              
-git clone https://github.com/panglima-jateng/e-ktp_2012
-cd e-ktp_2012
+git clone https://github.com/panglima-jateng/e-ktp_2012        
+cd e-ktp_2012                      
 bash e-ktp.sh
+
+# by trio renkarnasi
+- MR VIRUS SPM
+- PANGLIMA JATENG
+- PRAJURIT PAJAT 
